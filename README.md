@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+i like game dev i do it everyday
+
+i mainly use Godot
